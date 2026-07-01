@@ -24,5 +24,5 @@ This project was developed to fulfill **Task 3** of the **CodeAlpha Artificial I
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)[adityaRALPH]/CodeAlpha_Music_Generation_AI.git
+   git clone [https://github.com/](https://github.com/)[srivastavaadi2006-prog]/CodeAlpha_Music_Generation_AI.git
    cd CodeAlpha_Music_Generation_AI
