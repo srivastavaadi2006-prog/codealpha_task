@@ -34,7 +34,7 @@ Follow these steps to run the application locally on your machine:
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)[adityaRALPH]/CodeAlpha_Language_Translation_Tool.git
+   git clone [https://github.com/](https://github.com/)[srivastavaadi2006-prog]/CodeAlpha_Language_Translation_Tool.git
    cd CodeAlpha_Language_Translation_Tool
 
 *Note for Linux Users: If clipboard copy actions throw an environment error, run 'sudo apt-get install xclip' to enable clipboard support.*
